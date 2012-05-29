@@ -1,0 +1,32 @@
+{
+	"caret_style": "phase",
+	"color_scheme": "Packages/Color Scheme - Default/Solarized (Dark).tmTheme",
+	"font_face": "Consolas",
+	"font_size": 12.0,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage",
+		"SublimeLinter"
+	],
+	"line_padding_bottom": 0.5,
+	"line_padding_top": 0.5,
+	"new_window_settings":
+	{
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"rulers":
+	[
+		90
+	],
+	"show_tab_close_buttons": true,
+	"tab_size": 4,
+	"translate_tabs_to_spaces": true,
+	"use_tab_stops": true,
+	"use_simple_full_screen": true,
+	"word_wrap": false,
+	"ensure_newline_at_eof_on_save": true,
+	"trim_automatic_white_space": true,
+	"trim_trailing_white_space_on_save": true
+}
